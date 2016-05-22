@@ -1,0 +1,13 @@
+File : Cover+awalan.docx
+------------------------
+Albert garap halaman  : Cover, Halaman Pengesahan, Daftar Isi, Daftar Tabel, Daftar Gambar
+Bangkit Garap halaman : Kata Pengantar, Abstrak 
+
+*******************************************************************************************
+
+File : Laporan.docx
+-------------------
+Vani garap halaman 7-10
+Bangkit garap halaman 1-6
+Albert garap halaman 10 - 33
+Vani - bangkit halaman daftar pustaka & lampiran
