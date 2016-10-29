@@ -1,0 +1,59 @@
+﻿Bagi tugas revisi
+1. Abstrak, 3 paragraf - (ok)
+    - ltr blkang & tjuan
+    - metode pngmbngan sistem
+    - hasil kp
+
+2. Daftar tabel & gambar - (ok)
+    - tdk mnggunakan nmer subbab
+
+3. strategi sistem (hal. 4) - (ok)
+    - tabel dkasih nama
+
+4. Lukas ? (bab 3, hal. 8) - (ok)
+    - kali tipo lokasi 😂
+
+5. gambar ( dri hal 12. dst) - (ok)
+    - mngikuti nmer #3
+
+6. tabel (dri hal 12. dst) - (ok)
+    - ikut nmer #3 + caption tabel ada diatas tabel
+
+7. perancangan intrface. sist (ok)
+   - dri hal 16 - 22
+   - setiap gmbar dkasih pnjelasan
+
+8. tambahan subbab (ok)
+   - dri hal. 31
+   - tambah di daftar Isi
+   - tmbhkan terkait kelebihan & kekurangan sistem
+   - tulis langkah2 & gambaran umum hasil pngujian sistem
+
+9. Kesimpulan (Bab 5, hal.32) - (ok)
+   - kesimpulan a. dicoret
+
+10. Print ulang lumayan jd bnyak hal. yg geser 😂
+
+....
+tambahan u/ nmer #3 (ok)
+  - nama tabel ada diatas tabel
+
+.....
+Bagi tugasnya
+Vani :
+1, 2, 3, 4, 5, 6, 9
+
+Bangkit :
+7
+
+Albert :
+8
+
+
+---------------------------------
+Print Ulang All + Halaman di Lampiran (38)
+-- (Kecuali) -- 
+(Hal 1-5 cover+awal.docx): Cover s.d. Kata Pengantar 
+(Hal 1-7 laporan.docx): Pendahuluan s.d. Landasan Teori (Git) 
+(Hal 9-11 laporan.docx): Hal 9 Perencanaan db s.d. Hal 11 Rancangan DB 
+(Hal 23-30 laporan.docx): Hal 23 (Hasil dan Pembahasan) - 30 (Sebelum SS Bantuan sistem) 
